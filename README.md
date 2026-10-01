@@ -8,7 +8,7 @@
 
 <h2> / Sobre mi /</h2>
   
-- ⭐ **Soy Ingeniero de Sistemas, apasionado por el desarrollo de software y la creación de soluciones tecnológicas. Actualmente continúo fortaleciendo mis conocimientos en desarrollo backend, APIs REST, bases de datos y arquitectura de aplicaciones, buscando mejorar constantemente como desarrollador.**
+- ⭐ **Soy Ingeniero de Sistemas, apasionado por el desarrollo de software y la creación de soluciones tecnológicas. Actualmente continúo fortaleciendo mis conocimientos para mejorar constantemente como desarrollador.**
  
 <h2> / Habilidades / </h2>
   

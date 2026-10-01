@@ -6,7 +6,7 @@
 
 <h2> / Sobre mi /</h2>
   
-- ⭐ **Soy Ingeniero de Sistemas y desarrollador Java, apasionado por el desarrollo de software y la creación de soluciones tecnológicas. Me especializo en el desarrollo de aplicaciones utilizando Java y Spring Boot, trabajando con bases de datos como MySQL y PostgreSQL. También cuento con conocimientos en JavaScript, HTML, CSS, Angular y React. Actualmente continúo fortaleciendo mis conocimientos en desarrollo backend, APIs REST, bases de datos y arquitectura de aplicaciones, buscando mejorar constantemente como desarrollador.**
+- ⭐ **Soy Ingeniero de Sistemas, apasionado por el desarrollo de software y la creación de soluciones tecnológicas. Actualmente continúo fortaleciendo mis conocimientos en desarrollo backend, APIs REST, bases de datos y arquitectura de aplicaciones, buscando mejorar constantemente como desarrollador.**
  
 <h2> / Habilidades / </h2>
   

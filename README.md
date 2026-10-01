@@ -6,10 +6,8 @@
 
 <h2> / Sobre mi /</h2>
   
-- ⭐ **Actualmente soy estudiante de Ingenieria de sistemas**
-- ⭐ **Desarrollador Java**
-- ⭐ **Dominio Intermedio
-  
+- ⭐ **Soy Ingeniero de Sistemas y desarrollador Java, apasionado por el desarrollo de software y la creación de soluciones tecnológicas. Me especializo en el desarrollo de aplicaciones utilizando Java y Spring Boot, trabajando con bases de datos como MySQL y PostgreSQL. También cuento con conocimientos en JavaScript, HTML, CSS, Angular y React. Actualmente continúo fortaleciendo mis conocimientos en desarrollo backend, APIs REST, bases de datos y arquitectura de aplicaciones, buscando mejorar constantemente como desarrollador.**
+ 
 <h2> / Habilidades / </h2>
   
 - <h4> Lenguajes </h4>
@@ -39,17 +37,4 @@
   
   </br></br>
   </div>
-
-  <div align=center>
-  <h1> Mis estadisticas </h1> 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
-<br>
-  </div>
-<div align=center>
-<!--- stats & Trophy (start) -->
-<a href="https://github.com06">
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</div>
 

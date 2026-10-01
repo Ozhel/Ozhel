@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="[https://i.imgur.com/aNBi8Jf.png](https://img.magnific.com/foto-gratis/vista-superior-hacker-irreconocible-realizando-ciberataque-noche_1098-18706.jpg?semt=ais_hybrid&w=740&q=80)"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png](https://img.magnific.com/foto-gratis/vista-superior-hacker-irreconocible-realizando-ciberataque-noche_1098-18706.jpg?semt=ais_hybrid&w=740&q=80)"/>
 
 <h2> / Sobre mi /</h2>
   

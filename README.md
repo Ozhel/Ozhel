@@ -4,11 +4,11 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-<h2> / about me /</h2>
+<h2> Sobre mi /</h2>
   
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
+- ⭐ Actualmente soy estudiante de Ingenieria de sistemas**
+- ⭐ Desarrollador Java**
+- ⭐ Dominio Intermedio
   
 <h2> / current skills / </h2>
   

@@ -38,9 +38,5 @@
   <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code" />
   
   </br></br>
-  
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-  </div>
   </div>
 
